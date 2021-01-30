@@ -5,6 +5,8 @@ gem "hashie"
 gem "octokit", "~>2.0"
 
 source "git@github\.com:awesome"
+gem "AwesomePrint"
+
 group :development do
 gem "pry"
 end
