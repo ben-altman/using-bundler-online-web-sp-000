@@ -10,4 +10,3 @@ gem "AwesomePrint"
 group :development do
 gem "pry"
 end
-
